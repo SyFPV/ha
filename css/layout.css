@@ -34,7 +34,7 @@ header h1, header h2 {
 #sidebar {
     position: absolute;
     width: 10em;
-    left: 1em; 
+    left: 1em;
     top: 1em;
 }
 #sidebar h3 {
@@ -49,9 +49,17 @@ header h1, header h2 {
     display: block;
     padding: 0.125em 0;
 }
+
+
 footer {
     padding: 0.5em 5em;
 }
 footer p {
-    margin: 0em; 
+    margin: 0em;
+}
+
+img {
+width: 100%;
+max-width: 960px;
+height: auto;
 }
