@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     margin: 0;
     padding: 0;
@@ -76,3 +77,70 @@ height: auto;
     visibility: hidden;
     }
 }
+=======
+body {
+    margin: 0;
+    padding: 0;
+}
+header h1, header h2 {
+    margin: 0;
+}
+.content {
+    padding: 1em 5em;
+}
+.content h3 {
+    margin-top: 0;
+}
+#sitenav ol {
+    padding: 0;
+    margin: 0;
+    display: inline;
+}
+#sitenav li {
+    display: inline;
+    padding-left: 1em;
+    margin-left: 1em;
+    border-left: 1px solid black;
+}
+#sitenav li:first-child {
+    padding-left: 0;
+    border-left: none;
+    margin-left: 0;
+}
+#main {
+    padding: 0 2em 2em 12em;
+    position: relative;
+}
+#sidebar {
+    position: absolute;
+    width: 10em;
+    left: 1em;
+    top: 1em;
+}
+#sidebar h3 {
+    margin: 0;
+    padding: 0.125em 0.25em;
+}
+#sidebar ol {
+    margin: 0 0 1em 0;
+    padding: 0.125em 0.25em;
+}
+#sidebar li {
+    display: block;
+    padding: 0.125em 0;
+}
+
+
+footer {
+    padding: 0.5em 5em;
+}
+footer p {
+    margin: 0em;
+}
+
+img {
+width: 100%;
+max-width: 960px;
+height: auto;
+}
+>>>>>>> e5a06d43d4a611d1272b04fe3dc9e17bbaa9cbed
