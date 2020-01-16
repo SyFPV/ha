@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     margin: 0;
     padding: 0;
@@ -72,7 +73,7 @@ th{
     background-color: lightseagreen;
 }
 td{
-    background-color: rgb(105, 176, 221);
+    background-color: lightskyblue;
 }
 
 @media (max-width: 600px) {
