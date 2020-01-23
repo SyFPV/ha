@@ -80,6 +80,9 @@ td{
     #main {
     padding: 0;
     }
+    .content {
+        
+        }
     #sidebar {
     visibility: hidden;
     }
